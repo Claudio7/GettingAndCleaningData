@@ -41,5 +41,5 @@ summarisedDF <- read.table("summarisedDF.txt")
 - README.md: this file
 - [CodeBook.md](CodeBook.md): 
 - [run_analysis.R](run_analysis.R): R file used to process the initial dataset and obtain the resulting dataset
-- [summarisedDF.txt](summarisedDF.txt): the assignment data frame 
+
 
